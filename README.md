@@ -1,8 +1,8 @@
 # Automated Crypto Web Scraper  
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)  
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-Web%20Scraping-brightgreen)  
-![Requests](https://img.shields.io/badge/Requests-HTTP-orange)  
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python) 
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-Web%20Scraping-brightgreen) 
+![Requests](https://img.shields.io/badge/Requests-HTTP-orange) 
 ![CSV](https://img.shields.io/badge/Data-CSV-lightgrey)  
 
 This project is a **Python-based automated web scraper** that collects real-time Bitcoin prices from [CoinMarketCap](https://coinmarketcap.com/) and stores them in a CSV file with timestamps. It can be scheduled to run periodically, building a **historical dataset of crypto prices**.  
